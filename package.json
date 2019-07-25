@@ -1,0 +1,14 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "javascript algorithims",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rfoggo",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
